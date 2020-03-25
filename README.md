@@ -1,2 +1,2 @@
 # images
-This is images for the blog [TouchUMind](touchumind.com).
+This is images for the Blog **[TouchUMind](http://touchumind.com)**.
