@@ -1,1 +1,1 @@
-### This is Images for the Blog **[TouchUMind](http://touchumind.com)**.
+This is Images for the Blog: **[TouchUMind](http://touchumind.com)**.
